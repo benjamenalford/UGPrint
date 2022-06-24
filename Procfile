@@ -1,1 +1,1 @@
-web: gunicorn -w 4 app:UGPrint
+web: gunicorn -w 4 UGPrint:app
