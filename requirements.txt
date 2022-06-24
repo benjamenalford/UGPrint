@@ -1,5 +1,4 @@
 flask
 requests
 bs4
-json
 gunicorn
